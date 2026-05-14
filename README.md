@@ -1,6 +1,6 @@
 # 🏥 MediHealth
 
-A full-stack medical healthcare web application built as a **Tools & Technologies for Internet Programming** academic project at IIUC. Built solo under time pressure, MediHealth provides a complete hospital/clinic web experience — from browsing doctors and services to booking appointments and submitting contact enquiries, with full user authentication.
+A full-stack medical healthcare web application built as a **Tools & Technologies for Internet Programming** academic project at IIUC. MediHealth provides a complete hospital/clinic web experience — from browsing doctors and services to booking appointments and submitting contact enquiries, with full user authentication.
 
 ---
 
