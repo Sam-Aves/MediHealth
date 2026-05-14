@@ -206,7 +206,7 @@ Open [http://localhost:5173](http://localhost:5173)
 
 ## 👤 Author
 
-Built by **Asliraf Samaylan** — Tools & Technologies for Internet Programming, 3rd Year, CSE 56 
+Built by **Asliraf Samaylan** — Tools & Technologies for Internet Programming, 3rd Year, CSE 56, 
 [International Islamic University Chittagong (IIUC)](https://www.iiuc.ac.bd/)
 
 GitHub: [@Sam-Aves](https://github.com/Sam-Aves)
